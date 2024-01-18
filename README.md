@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IsabelGarcia13
-- 👀 I’m interested in C and C# programming!
-- 🌱 I’m currently learning Web Development!
-- 💞️ I’m looking to collaborate on any sort of entry-level projects, as I'm interested in meeting other developers and improve myself.
+- 👀 I have a keen interest in C and C# programming, but I'm also very enthusiastic about Back-End Development!
+- 🌱 I’m currently learning Full Stack Web Development!
+- 💞️ I’m looking to collaborate on any sort of entry-level projects and I'm interested in meeting other junior developers.
 - 📫 How to reach me: You can use my LinkedIn, link in my profile!
 
 <!---
